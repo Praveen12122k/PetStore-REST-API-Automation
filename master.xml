@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="api_utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="P:/Selenium Java/PetstoreApiAutomation/src/test/java/api_test">
+        <classes>
+<!--            <class name="api_test.DDTTest">-->
+<!--                <methods>-->
+<!--                    <include name="post_user"/>-->
+<!--                    <include name="test_deleteuser"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+            <class name="api_test.UserTest">
+                <methods>
+                    <include name="test_postuser"/>
+                    <include name="test_getuser"/>
+                    <include name="test_updateuser"/>
+                    <include name="test_deleteuser"/>
+                </methods>
+            </class>
+            <class name="api_test.UserTest2">
+                <methods>
+                    <include name="test_postuser"/>
+                    <include name="test_getuser"/>
+                    <include name="test_updateuser"/>
+                    <include name="test_deleteuser"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

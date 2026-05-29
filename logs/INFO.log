@@ -1,0 +1,17 @@
+2026-05-29 10:56:54.957 [main] INFO  api_test.UserTest - get API is Successfully returned Users
+2026-05-29 10:56:54.968 [main] INFO  api_test.UserTest - Payload is crated for update user
+2026-05-29 10:56:56.680 [main] INFO  api_test.UserTest - User is updated
+2026-05-29 10:56:58.308 [main] INFO  api_test.UserTest - User is Deleted
+2026-05-29 10:56:58.474 [main] INFO  api_test.UserTest2 - Start of Create User API
+2026-05-29 10:57:00.071 [main] INFO  api_test.UserTest2 - End of Create User API
+2026-05-29 10:57:01.635 [main] INFO  api_test.UserTest2 - User Details is fetched
+2026-05-29 10:57:01.641 [main] INFO  api_test.UserTest2 - get API is Successfully returned Users
+2026-05-29 10:57:01.648 [main] INFO  api_test.UserTest2 - Payload is crated for update user
+2026-05-29 10:57:03.230 [main] INFO  api_test.UserTest2 - User is updated
+2026-05-29 10:57:04.867 [main] INFO  api_test.UserTest2 - User is Deleted
+2026-05-29 10:57:06.802 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@72769bf5: 178 ms
+2026-05-29 10:57:06.804 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1aa7d66e: 2 ms
+2026-05-29 10:57:06.824 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2c2dfde3: 20 ms
+2026-05-29 10:57:06.841 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@25192b6e: 17 ms
+2026-05-29 10:57:06.850 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e8359da: 9 ms
+2026-05-29 10:57:06.851 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@36b6802f: 0 ms

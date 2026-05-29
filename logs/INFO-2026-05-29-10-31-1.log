@@ -1,0 +1,47 @@
+2026-05-28 17:46:39.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-05-28 17:46:39.641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.644 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-05-28 17:46:39.644 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.645 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.645 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.665 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+2026-05-28 17:46:39.730 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 64 ms.
+2026-05-28 17:46:39.730 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.730 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.734 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.734 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.735 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.737 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.745 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.745 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.745 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.745 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-05-28 17:46:39.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-05-28 17:46:39.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-28 17:46:39.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-28 17:46:39.787 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  P:\Selenium Java\PetstoreApiAutomation\master.xml
+
+2026-05-28 17:46:40.249 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2026-05-28 17:46:40.825 [main] INFO  api_test.UserTest - Start of Create User API
+2026-05-28 17:46:48.455 [main] INFO  api_test.UserTest - End of Create User API
+2026-05-28 17:46:50.985 [main] INFO  api_test.UserTest - User Details is fetched
+2026-05-28 17:46:51.002 [main] INFO  api_test.UserTest - get API is Successfully returned Users
+2026-05-28 17:46:51.011 [main] INFO  api_test.UserTest - Payload is crated for update user
+2026-05-28 17:46:53.886 [main] INFO  api_test.UserTest - User is updated
+2026-05-28 17:46:55.708 [main] INFO  api_test.UserTest - User is Deleted
+2026-05-28 17:46:57.586 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4edd8a0a: 0 ms
+2026-05-29 10:31:50.347 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pradeep K\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-05-29 10:31:50.814 [main] INFO  api_test.UserTest2 - Start of Create User API
+2026-05-29 10:31:56.707 [main] INFO  api_test.UserTest2 - End of Create User API
